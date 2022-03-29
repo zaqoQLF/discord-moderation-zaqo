@@ -1,0 +1,20 @@
+{
+    "reactionRole": {
+        "952272491697545328": {
+            "emojis": [{
+                "id": "882255540888141874",
+                "roles": "951541254116737025"
+            }]
+        },
+        "ID DU MESSAGE": {
+            "removable": true,
+            "emojis": [{
+                "name": "💻",
+                "roles": ["ID DU ROLE", "ID DU ROLE"]
+            }, {
+                "name": "🎮",
+                "roles": "ID DU ROLE"
+            }]
+        }
+    }
+}
